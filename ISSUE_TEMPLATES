@@ -1,11 +1,11 @@
-**As a** [role]  
-**I need** [function]  
-**So that** [benefit]  
+**As a** Software Engineer  
+**I need** A proper BTS  
+**So that** I can create my TDD Software  
       
 ### Details and Assumptions
-    * [document what you know]      
+    * Behavioral Test Sheet     
 ### Acceptance Criteria     
     gherkin 
-    Given [some context]
-    When [certain action is taken]
-    Then [the outcome of action is observed]
+    Given a Software Engineer
+    When a BTS is formed
+    Then a TDD Software can be created
